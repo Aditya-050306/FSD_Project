@@ -287,9 +287,8 @@ The project can be further improved by adding:
 ---
 
 ## 👨‍💻 Authors
-
-* **Aditya Joshi**
 * **Aayush Krishniya**
+* **Aditya Joshi**
 * **Akshat Gupta**
 
 ### Full Stack Development Project
